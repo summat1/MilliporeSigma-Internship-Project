@@ -4,7 +4,8 @@
 
 Over a 12 week summer internship and part-time work throughout the autumn, I have worked on the **Legacy Tissue Data Project**. The purpose of this project is to organize 3 Excel sheets of data: **Closet Blocks**, **Customer Blocks**, and **Active Inventory**. Closet and Customer Blocks contain information about the shipment and receiving of tissue blocks. Some of these are qualified and have a place in Active Inventory, while some are unqualified and remain in storage. Closet and Customer Blocks may be herein referred to as **Sourcing Data** and Active Inventory as **QTI** (Qualified Tissue Inventory). 
 
-This document serves as a documentation for the steps I took in this project, the results I found, and the future implications for my work. It will follow the steps I performed in chronological order, explaining the methodology and purpose behind each part. It will be attached with the frozen versions of the data files that I used, the code files in Python and R, and the outputted data files after data wrangling. All the source code is commented as well for further documentation.
+
+This document serves as a documentation for the steps I took in this project, the results I found, and the future implications for my work. It will follow the steps I performed in chronological order, explaining the methodology and purpose behind each part. The data files are not available for public viewing, but the code is here. This code was written solely by me. All the source code is commented as well for further documentation.
 
 The end goal of this project is to integrate the legacy tissue data into a **Laboratory Information Management System (LIMS)**. Significant progress has been made towards this goal, although a few key challenges remain. 
 
